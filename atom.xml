@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://trojians.github.io</id>
     <title>Trojians</title>
-    <updated>2019-05-29T08:14:04.987Z</updated>
+    <updated>2019-05-29T08:37:48.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://trojians.github.io"/>
     <link rel="self" href="https://trojians.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>天青色等烟雨</subtitle>
     <logo>https://trojians.github.io/images/avatar.png</logo>
     <icon>https://trojians.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Trojians</rights>
