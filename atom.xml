@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://trojians.github.io</id>
     <title>Trojians</title>
-    <updated>2019-05-31T01:27:32.946Z</updated>
+    <updated>2019-05-31T01:37:28.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://trojians.github.io"/>
     <link rel="self" href="https://trojians.github.io/atom.xml"/>
@@ -24,6 +24,23 @@
 <ul>
 <li>一个可以下载各大视频网站的网站解析神器（油管能解析，无法下载）
 <a href="https://www.urlgot.com/zh_CN/">https://www.urlgot.com/zh_CN/</a></li>
+</ul>
+<p><strong>网络安全类</strong></p>
+<ul>
+<li>跳跳糖（原乌云）
+<a href="https://tttang.com/">https://tttang.com/</a></li>
+<li>freebuf
+<a href="https://www.freebuf.com/">https://www.freebuf.com/</a></li>
+<li>i春秋
+<a href="https://bbs.ichunqiu.com/portal.php">https://bbs.ichunqiu.com/portal.php</a></li>
+<li>嘶吼（安全新媒体）
+<a href="https://www.4hou.com/">https://www.4hou.com/</a></li>
+<li>即刻安全
+<a href="http://www.secist.com/">http://www.secist.com/</a></li>
+<li>Paper
+<a href="https://paper.seebug.org/">https://paper.seebug.org/</a></li>
+<li>先知社区
+<a href="https://xz.aliyun.com/">https://xz.aliyun.com/</a></li>
 </ul>
 ]]></content>
     </entry>
