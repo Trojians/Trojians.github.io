@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://trojians.github.io</id>
     <title>Trojians</title>
-    <updated>2019-06-13T08:14:10.221Z</updated>
+    <updated>2020-01-22T11:10:30.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://trojians.github.io"/>
     <link rel="self" href="https://trojians.github.io/atom.xml"/>
     <subtitle>天青色等烟雨</subtitle>
     <logo>https://trojians.github.io/images/avatar.png</logo>
     <icon>https://trojians.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Trojians</rights>
+    <rights>All rights reserved 2020, Trojians</rights>
+    <entry>
+        <title type="html"><![CDATA[I AM BACK]]></title>
+        <id>https://trojians.github.io/post/i-am-back</id>
+        <link href="https://trojians.github.io/post/i-am-back">
+        </link>
+        <updated>2020-01-22T04:40:16.000Z</updated>
+        <content type="html"><![CDATA[<p>I am Back ！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神器网站&工具]]></title>
         <id>https://trojians.github.io/post/shen-qi-wang-zhan-andgong-ju</id>
@@ -22,44 +31,44 @@
 <!--more-->
 <p><strong>下载工具类：</strong></p>
 <ul>
-<li>一个可以下载各大视频网站的网站解析神器（油管能解析，无法下载）
+<li>一个可以下载各大视频网站的网站解析神器（油管能解析，无法下载）<br>
 <a href="https://www.urlgot.com/zh_CN/">https://www.urlgot.com/zh_CN/</a></li>
-<li>Pandownload网页版
+<li>Pandownload网页版<br>
 <a href="https://www.baiduwp.com/">https://www.baiduwp.com/</a></li>
 </ul>
 <p><strong>定位工具</strong></p>
 <ul>
-<li>根据key查询ip地址
+<li>根据key查询ip地址<br>
 <a href="https://met.red/h/location/getOpenUrlUserIpInfo">遇见数据</a></li>
-<li>高精度IP定位
+<li>高精度IP定位<br>
 <a href="https://met.red/h/location/queryIp">遇见数据</a></li>
-<li>WIFI定位
+<li>WIFI定位<br>
 <a href="https://met.red/h/location/wifi">遇见数据</a></li>
 </ul>
 <p><strong>网络安全类</strong></p>
 <ul>
-<li>跳跳糖（原乌云）
+<li>跳跳糖（原乌云）<br>
 <a href="https://tttang.com/">https://tttang.com/</a></li>
-<li>freebuf
+<li>freebuf<br>
 <a href="https://www.freebuf.com/">https://www.freebuf.com/</a></li>
-<li>i春秋
+<li>i春秋<br>
 <a href="https://bbs.ichunqiu.com/portal.php">https://bbs.ichunqiu.com/portal.php</a></li>
-<li>嘶吼（安全新媒体）
+<li>嘶吼（安全新媒体）<br>
 <a href="https://www.4hou.com/">https://www.4hou.com/</a></li>
-<li>即刻安全
+<li>即刻安全<br>
 <a href="http://www.secist.com/">http://www.secist.com/</a></li>
-<li>Paper
+<li>Paper<br>
 <a href="https://paper.seebug.org/">https://paper.seebug.org/</a></li>
-<li>先知社区
+<li>先知社区<br>
 <a href="https://xz.aliyun.com/">https://xz.aliyun.com/</a></li>
 </ul>
 <p><strong>搜索类</strong></p>
 <ul>
-<li>磁力猫
+<li>磁力猫<br>
 <a href="https://www.cilimao.tv/">https://www.cilimao.tv/</a></li>
-<li>西林街
+<li>西林街<br>
 <a href="http://www.xilinjie.com/">http://www.xilinjie.com/</a></li>
-<li>茶杯狐
+<li>茶杯狐<br>
 <a href="https://www.cupfox.com/">https://www.cupfox.com/</a></li>
 </ul>
 ]]></content>
@@ -70,7 +79,7 @@
         <link href="https://trojians.github.io/post/yuan-su-cuo-pai-chong-pai">
         </link>
         <updated>2019-02-23T01:42:33.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://trojians.github.io/post-images/1550886175730.png" alt=""></p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://trojians.github.io/post-images/1550886175730.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -80,13 +89,13 @@
         </link>
         <updated>2019-02-22T01:56:53.000Z</updated>
         <content type="html"><![CDATA[<p>隔年增长问题的概念及公式</p>
-<p>隔年增长问题就是研究的数据中间往往间隔一年，去研究间隔一年后数据之间的关系，常见的考点有隔年基期、隔年增长量、隔年倍数的考查。在正式讲解之前，先要明白几个基本概念，分别是现期、间期、基期。
-<img src="https://trojians.github.io/post-images/1550800672541.jpg" alt=""></p>
+<p>隔年增长问题就是研究的数据中间往往间隔一年，去研究间隔一年后数据之间的关系，常见的考点有隔年基期、隔年增长量、隔年倍数的考查。在正式讲解之前，先要明白几个基本概念，分别是现期、间期、基期。<br>
+<img src="https://trojians.github.io/post-images/1550800672541.jpg" alt="" loading="lazy"></p>
 <p>【举例说明】2016年全国规模以上工业企业实现利润总额68803.2亿元，比上年增长8.5%，增速比上年提高10.8个百分点。</p>
 <p>求:(1)2016年相较于2014年全国规模以上工业企业实现利润总额的同比增速是多少?</p>
-<p>(2)2014年全国规模以上工业企业实现利润总额是多少?
-<img src="https://trojians.github.io/post-images/1550801014509.jpg" alt="">
-<img src="https://trojians.github.io/post-images/1550800709510.jpg" alt=""></p>
+<p>(2)2014年全国规模以上工业企业实现利润总额是多少?<br>
+<img src="https://trojians.github.io/post-images/1550801014509.jpg" alt="" loading="lazy"><br>
+<img src="https://trojians.github.io/post-images/1550800709510.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -102,7 +111,7 @@
 <p>C.目前使用的线带的黏性足够使伤口缝合10天</p>
 <p>D.现在还不清楚究竟是D型带还是目前使用的线带更有利于伤口的愈合</p>
 <p>2.从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性。</p>
-<p><img src="https://trojians.github.io/post-images/1550737652929.png" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://trojians.github.io/post-images/1550737652929.png" alt="" loading="lazy"></figure>
 <p>判断推理题库</p>
 <p>参考答案与解析</p>
 <p>1.【答案】C。 解析：题干说明外科伤口需要线带最长时间为10天，如目前使用的线带已足够使伤口缝合10天，则销售人员所说的D型线带黏附时间是目前使用的两倍就没有意义，C项最能说明销售人员观点的漏洞。故答案选C。</p>
@@ -122,7 +131,7 @@
 <p>C.13小时50分钟 D.14小时</p>
 <p>4.将A、B、C三个水管打开向水池放水，水池12分钟可以灌满;将B、C、D三个水管打开向水池放水，水池15分钟可以灌满;将A、D两个水管打开向水池放水，水池20分钟可以灌满。如果将A、B、C、D四个水管打开向水池放水，水池需多少分钟可以灌满?</p>
 <p>A.25 B.20 C.15 D.10</p>
-<p>解析：3、根据甲乙的单独完成工作时间设总工作量为48（即16 和12的最小公倍数），则甲的效率为3，乙的效率为4，一个循环甲乙共完成的工作量是3+4=7，6个循环12小时之后完成42，还剩6，甲再做1小时，剩余3，用时3÷4为45分钟，所以一共用时12+1+0.75小时。
+<p>解析：3、根据甲乙的单独完成工作时间设总工作量为48（即16 和12的最小公倍数），则甲的效率为3，乙的效率为4，一个循环甲乙共完成的工作量是3+4=7，6个循环12小时之后完成42，还剩6，甲再做1小时，剩余3，用时3÷4为45分钟，所以一共用时12+1+0.75小时。<br>
 4、设水池总量为60，设四个水管效率分别为A、B、C、D，则A+B+C=5，B+C+D=4，A+D=3。三式相加得2(A+B+C+D)=5+4+3=12，故四个水管的效率和为6，需要10分钟可将水池灌满。</p>
 <p>1.刘师傅和张师傅比赛加工机器零件，每人加工300个，刘师傅每分钟加工2个，张师傅每加工10个零件比刘师傅少用20秒。问张师傅加工完300个零件时，刘师傅还有多少个零件没有加工?</p>
 <p>A.20个 B.25个 C.30个 D.40个</p>
@@ -158,8 +167,8 @@
         <link href="https://trojians.github.io/post/zheng-yue-shi-wu">
         </link>
         <updated>2019-02-19T07:17:15.000Z</updated>
-        <content type="html"><![CDATA[<p>今天是2019年的2月19日，农历己亥年正月十五。
-<img src="https://trojians.github.io/post-images/1550552543107.jpg" alt=""></p>
+        <content type="html"><![CDATA[<p>今天是2019年的2月19日，农历己亥年正月十五。<br>
+<img src="https://trojians.github.io/post-images/1550552543107.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -174,9 +183,9 @@
 <blockquote>
 <p>正则就是一个规则，用来处理<code>字符串</code>的规则</p>
 <ol>
-<li>正则匹配
+<li>正则匹配<br>
 编写一个规则，验证某个字符串是否符合这个规则，正则匹配使用的是test方法</li>
-<li>正则捕获
+<li>正则捕获<br>
 编写一个规则，在一个字符串中把符合规则的内容都获取到，正则捕获使用的方法：正则的exec方法，字符串中的split、replace、math等方法都支持正则</li>
 </ol>
 <pre><code class="language-javascript">var reg = /^$/;//=&gt;两个斜杠之间包含一些内容就是正则，两个斜杠之间包含的全部内容都是元字符
