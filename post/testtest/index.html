@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>神器 | Trojians</title>
+<title>test/test | Trojians</title>
 <meta name="description" content="天青色等烟雨">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -13,6 +13,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://trojians.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -97,34 +103,35 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: 神器</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://trojians.github.io/post/shen-qi-wang-zhan-andgong-ju/">
-                  <h2 class="post-title">神器网站&amp;工具</h2>
-                </a>
-                <div class="post-date">
-                  2019-05-31
-                </div>
-                <div class="post-abstract">
-                  <p>这篇文章收集的是各种神器网站&amp;工具以及其他</p>
+          <div class="post-detail">
+            <h2 class="post-title">test/test</h2>
+            <div class="post-date">2020-04-09</div>
+            
+            <div class="post-content">
+              <p>dskdjsk 蝶恋蜂狂的浪费受到了受到了</p>
 
-                </div>
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://trojians.github.io/post/tian-you-wu-han/">
+                  <h3 class="post-title">
+                    天佑武汉
+                  </h3>
+                </a>
               </div>
-              
-                <a class="right" href="https://trojians.github.io/post/shen-qi-wang-zhan-andgong-ju/">
-                  <div class="feature-container" style="background-image: url('https://trojians.github.io/post-images/shen-qi-wang-zhan-andgong-ju.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
+            
 
-          <div class="pagination-container">
-  
-  
-</div>
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -146,6 +153,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'dd5d484034ef01484067',
+        clientSecret: '34cfb77bb806b90eb592c00116742d4c2ebc609f',
+        repo: 'trojians.github.io',
+        owner: 'trojians',
+        admin: ['trojians'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
